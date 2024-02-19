@@ -1,0 +1,47 @@
+node package manager - npm
+npm init
+package.json
+package-lock.json
+
+Nodejs is single threaded
+REST - Representational State Transfer
+Client Side Rendering
+Server Side Rendering
+
+API - Application Programming Interface
+
+Get - If no modification in db will happen then we can do get request.
+Post - Creation hona hai db me to post request
+Delete - delete karna ho to
+PUT - old is deleted new object is created with updated fields
+Patch - old object is modified
+
+Temporal Dead Zone
+
+Prototypal Inheritance
+
+Asynchronous Programming
+Synchronous Programming
+
+Child Referencing
+Parent Referencing
+
+Typescript -
+
+Hoisting
+
+type: module / commonjs
+
+Named Export
+Default Export
+
+Middleware
+
+Client -> Backend
+
+Backend (Service1 -> Service2 -> Service3 -> Service4) -> Withdraw (Dedo Paisa)
+
+ATM Pin (isValid)
+Account number (Valid)
+Account Balance (Is enough money)
+ATM Balance ()
